@@ -1,1 +1,1 @@
-自定义简单的starter
+自定义简单的starter，仅供参考

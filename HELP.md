@@ -17,3 +17,4 @@ For further reference, please consider the following sections:
 @ConditionalOnResource:类路径下是否有指定的资源  
 @ConditionalOnSingleCandidate:当指定Bean在容器中只有一个，或者虽然有多个但是指定首选Bean
 @ConditionalOnWebApplication:当前项目是Web项目的条件下
+
